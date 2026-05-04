@@ -9,6 +9,6 @@
     "author": "Dave Smith",
     "image": "https://github.com/nafizjiwa/hosted-PHOTOS-ASSETS/blob/main/ian.jpg?raw=true",
     "url": "https://example.com/jane-smith",
-    "bio": "Jane Smith is a software engineer focused on UI/UX design and frontend architecture."
-  }
+    "bio": "Dave Smith is a software engineer focused on UI/UX design and frontend architecture."
+  },
 ]
