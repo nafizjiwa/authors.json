@@ -6,8 +6,8 @@
     "bio": "John Doe is a writer who specializes in modern web development and technical education."
   },
   {
-    "author": "Jane Smith",
-    "image": "https://example.com/jane-smith.jpg",
+    "author": "Dave Smith",
+    "image": "[https://example.com/jane-smith.jpg](https://github.com/nafizjiwa/hosted-PHOTOS-ASSETS/blob/main/ian.jpg?raw=true)",
     "url": "https://example.com/jane-smith",
     "bio": "Jane Smith is a software engineer focused on UI/UX design and frontend architecture."
   }
