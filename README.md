@@ -1,7 +1,7 @@
 [
   {
     "author": "John Doe",
-    "image": "https://example.com/john-doe.jpg",
+    "image": "https://github.com/nafizjiwa/hosted-PHOTOS-ASSETS/blob/main/charles.jpg?raw=true",
     "url": "https://example.com/john-doe",
     "bio": "John Doe is a writer who specializes in modern web development and technical education."
   },
