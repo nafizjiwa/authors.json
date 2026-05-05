@@ -16,6 +16,13 @@
     "image": "https://github.com/nafizjiwa/hosted-PHOTOS-ASSETS/blob/main/jake.jpg?raw=true",
     "url": "https://example.com/sarah",
     "bio": "Sarah Lee is a technical writer who specializes in documentation and developer education."
+  },
+   {
+    "author": "Ivanka Tower",
+    "image": "https://github.com/nafizjiwa/hosted-PHOTOS-ASSETS/blob/main/ivana.jpg?raw=true",
+    "url": "https://example.com/ivanka",
+    "bio": "Ivanka Tower is a technical writer who specializes in documentation and developer education."
   }
   
 ]
+
